@@ -1,0 +1,33 @@
+body{
+    background-color:azure;
+    font-family:Arial, Tahoma, sans-serif;
+    color: black;
+}
+
+h1{
+    text-align:center;
+    color: goldenrod;
+}
+
+
+h2{
+    color:brown;
+}
+
+ul li{
+    color:darkorange;
+}
+
+img{
+    width:300px;
+}
+
+p{
+    font-style: italic;
+    font-size:16px;
+}
+
+ul ol{
+    font-size: 24px;
+}
+
