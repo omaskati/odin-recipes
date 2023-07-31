@@ -14,7 +14,7 @@ h2{
     color:brown;
 }
 
-ul li{
+ul li a:link, ul li a:visited{
     color:darkorange;
 }
 
